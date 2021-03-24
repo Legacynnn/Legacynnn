@@ -21,6 +21,9 @@ Favorite album: I want to die in new orleans
 
 <img src="https://cdn.discordapp.com/attachments/819429514173743124/823556474101170206/unknown.png" align="center" width="300px">
 
+<div align="left"> 
+os: Kubunto
+</div
 
 </pre>
 
