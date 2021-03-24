@@ -19,6 +19,8 @@ Living in: São Paulo, Brazil
 Favorite artists: $uicideBoy$
 Favorite album: I want to die in new orleans
 
+My desk:
+
 <img src="https://cdn.discordapp.com/attachments/819429514173743124/823556474101170206/unknown.png" align="center" width="300px" style="display: flex;">
 
 </pre>
