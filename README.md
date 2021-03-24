@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white"/>
-<div/>
+<img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" align="center" style="display: flex;" />
+
 
 
 
@@ -20,3 +19,4 @@
 Legacynnn/Legacynnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
