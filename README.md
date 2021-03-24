@@ -21,7 +21,7 @@ Favorite album: I want to die in new orleans
 
 <img src="https://cdn.discordapp.com/attachments/819429514173743124/823556474101170206/unknown.png" align="center" width="300px" style="display: flex;">
 
-<div align="left" style="display: flex;"> 
+<div align="center" style="display: flex;"> 
 os: Ubuntu 20.04.1
 interface: KDE
 shell: zsh
@@ -29,6 +29,8 @@ Terminal: Hyper
 Theme: Layan
 Text Editor: vscode
 editor theme: Dracula
+
+<img src="https://cdn.discordapp.com/attachments/819429514173743124/823556474101170206/unknown.png" align="center" width="300px" style="display: flex;">
 </div
 
 </pre>
