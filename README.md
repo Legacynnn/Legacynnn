@@ -16,7 +16,7 @@ Hi, my little friend welcome to my little github
 
 Nick: Legacyn
 Age: 17
-Living in: São Paulo, Brazil
+Living in: Brazil
 Favorite artists: $uicideBoy$
 Favorite album: I want to die in new orleans
 
