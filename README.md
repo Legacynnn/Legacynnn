@@ -9,7 +9,7 @@
 Hi, my little friend welcome to my little github
 🕵 - JS 4all the things!
 🩸 - blood is drippin’ down my eyes
-🧠 - Learning TensorFlow.js
+🧠 - Learning more JS, but i want learn Elixir
 🏈 - Dallas Cowboys in vein
 
 <img src="https://media.tenor.com/images/9ed73f1473dcf78ac04ef3f3af7eee5b/tenor.gif" align="left" width="500px">
