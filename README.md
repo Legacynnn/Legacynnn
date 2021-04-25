@@ -12,7 +12,7 @@ Hi, my little friend welcome to my little github
 🧠 - Starting Rust now
 🏈 - Dallas Cowboys in vein
 
-<img src="https://media.tenor.com/images/9ed73f1473dcf78ac04ef3f3af7eee5b/tenor.gif" align="left" width="500px">
+<img src="https://viralviralvideos.com/wp-content/uploads/2014/06/GIF-Hacker.gif" align="left" width="500px">
 
 Nick: Legacyn
 Age: 17
