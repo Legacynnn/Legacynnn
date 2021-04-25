@@ -6,19 +6,18 @@
 
 <pre align="center">
 
-Hi, my little friend welcome to my little github
+Hello friend
 🕵 - JS 4all the things!
-🩸 - blood is drippin’ down my eyes
+🩸 - Legacyn#4456
 🧠 - Starting Rust now
-🏈 - Dallas Cowboys in vein
+🏀 -  Los angles clippers
 
 <img src="https://viralviralvideos.com/wp-content/uploads/2014/06/GIF-Hacker.gif" align="left" width="500px">
 
 Nick: Legacyn
-Age: 17
+Age: 16
 Living in: Brazil
 Favorite artists: $uicideBoy$
-Favorite album: I want to die in new orleans
 
 My desk:
 
