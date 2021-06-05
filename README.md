@@ -15,7 +15,7 @@ Hello friend
 <img src="https://media.tenor.com/images/d508954a50ac631bd313cab4b8b77427/tenor.gif" align="left" width="500px">
 
 Nick: Legacyn
-Age: 16
+Age: 17
 Living in: Brazil
 Favorite artists: $uicideBoy$
 
