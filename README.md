@@ -12,7 +12,7 @@ Hello friend
 🧠 - Kubuntu
 🏀 -  Los angles clippers
 
-<img src="https://viralviralvideos.com/wp-content/uploads/2014/06/GIF-Hacker.gif" align="left" width="500px">
+<img src="https://media.tenor.com/images/d508954a50ac631bd313cab4b8b77427/tenor.gif" align="left" width="500px">
 
 Nick: Legacyn
 Age: 16
