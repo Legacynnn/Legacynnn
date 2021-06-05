@@ -8,7 +8,7 @@
 
 Hello friend
 🕵 - JS 4all the things!
-🩸 - Legacyn#4456
+🩸 - Legacyn#9894
 🧠 - Kubuntu
 🏀 -  Los angles clippers
 
