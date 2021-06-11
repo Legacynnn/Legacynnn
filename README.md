@@ -12,10 +12,10 @@ Hello friend
 🧠 - Kubuntu
 🏀 -  Los angles clippers
 
-<img src="https://media.tenor.com/images/d508954a50ac631bd313cab4b8b77427/tenor.gif" align="left" width="500px">
+<img src="https://media.giphy.com/media/1zgzISaYrnMAYRJJEr/giphy.gif" align="left" width="500px">
 
 Nick: Legacyn
-Age: 17
+Age: 16
 Living in: Brazil
 Favorite artists: $uicideBoy$
 
