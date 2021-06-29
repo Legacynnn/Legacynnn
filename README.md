@@ -26,12 +26,6 @@ Favorite artists: $uicideBoy$
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legacynnn&layout=compact&theme=tokyonight)](https://github.com/Legacynnn/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legacynnn&show_icons=true&theme=tokyonight)
 
-<div style="display: inline">
-  <a href="https://github.com/Legacynnn">
-  <img src="https://github.com/ArthurHydr/ArthurHydr/blob/output/github-contribution-grid-snake.svg">
-</div>
-
-
 
 <!---
 Legacynnn/Legacynnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
