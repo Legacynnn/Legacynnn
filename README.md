@@ -19,10 +19,13 @@ Age: 16
 Living in: Brazil
 Favorite artists: $uicideBoy$
 
-<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" >
 
 
 </pre>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legacynnn&layout=compact&theme=tokyonight)](https://github.com/Legacynnn/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legacynnn&show_icons=true&theme=tokyonight)
+
 
 
 <!---
