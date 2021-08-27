@@ -12,7 +12,7 @@ Hello friend
 🧠 - Kubuntu
 🏀 -  Los angles clippers
 
-<img src="https://ray.so/?title=&theme=candy&spacing=32&background=true&darkMode=true&code=Y2xhc3MgQmxvY2sgewoKICBwdWJsaWMgbm9uY2UgPSBNYXRoLnJvdW5kKE1hdGgucmFuZG9tKCkqIDk5OTk5OTk5OSkKCiAgY29uc3RydWN0b3IocHVibGljIHByZXZIYXNoOiBzdHJpbmcsIHB1YmxpYyB0cmFuc2FjdGlvbjogVHJhbnNhY3Rpb24sIHB1YmxpYyB0cyA9IERhdGUubm93KCkpewoKICB9CgogIGdldCBoYXNoKCkgewogICAgY29uc3Qgc3RyID0gSlNPTi5zdHJpbmdpZnkodGhpcykKICAgIGNvbnN0IGhhc2ggPSBjcnlwdG8uY3JlYXRlSGFzaCgnU0hBMjU2JykKICAgIGhhc2gudXBkYXRlKHN0cikuZW5kKCkKCiAgICByZXR1cm4gaGFzaC5kaWdlc3QoJ2hleCcpCiAgfQoKfQ&language=typescript" align="left" width="500px">
+<img src="![image](https://user-images.githubusercontent.com/63133724/131149909-7ab125cf-ce34-415a-9def-bcce1de65b07.png)" align="left" width="500px">
 
 Nick: Legacyn
 Age: 16
