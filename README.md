@@ -15,7 +15,7 @@ Hello friend
 <img src="https://user-images.githubusercontent.com/63133724/131149909-7ab125cf-ce34-415a-9def-bcce1de65b07.png" align="left" width="500px">
 
 Nick: Legacyn
-Age: 16
+Age: 17
 Living in: Brazil
 Favorite artists: $uicideBoy$
 
