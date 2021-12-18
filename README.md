@@ -16,7 +16,7 @@ Hello friend
 Nick: Legacyn
 Age: 17
 Living in: Brazil
-Favorite artists: $uicideBoy$ & Night Lovell
+Favorite artists: Night Lovell
 
 
 
