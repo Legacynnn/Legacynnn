@@ -7,7 +7,6 @@
 <pre align="center">
 
 Hello friend
-🕵 - JS 4all the things!
 🩸 - Legacyn#9894
 🧠 - Kubuntu
 🏀 -  Los angles clippers
@@ -17,7 +16,7 @@ Hello friend
 Nick: Legacyn
 Age: 17
 Living in: Brazil
-Favorite artists: $uicideBoy$
+Favorite artists: $uicideBoy$ & Night Lovell
 
 
 
