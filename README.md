@@ -9,7 +9,7 @@
 Hello friend
 🩸 - Legacyn#9894
 
-<img src="https://user-images.githubusercontent.com/63133724/131149909-7ab125cf-ce34-415a-9def-bcce1de65b07.png" align="left" width="500px">
+<img src="[https://user-images.githubusercontent.com/63133724/131149909-7ab125cf-ce34-415a-9def-bcce1de65b07.png](https://preview.redd.it/c3xntjvix4ba1.png?width=960&crop=smart&auto=webp&s=982346afb0d5226e64e22040b9d64236fe53c2d0)" align="left" width="500px">
 
 Nick: Legacyn
 Age: 17
