@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Legacynnn](https://github.com/Legacynnn)
 
-- 📫 How to reach me **danmelomour@gmail.com**
+- 📫 Reach me on **danmelomour@gmail.com**
 
 - 👀 Favorite Movies **Fast and Furious, Top Gun and Pirates of the Caribbean**
 
