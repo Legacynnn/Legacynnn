@@ -9,7 +9,7 @@
 Hello friend
 🩸 - Legacyn#9894
 
-<img src="blob:https://carbon.vercel.app/449f4fe6-a2c7-48b2-ae62-d48e5c6bd156" align="left" width="500px">
+<img src="[![image](https://user-images.githubusercontent.com/63133724/211701097-0a1d76cf-3925-49a9-be02-4b68b90adbf4.png)](https://i.redd.it/c3xntjvix4ba1.png)" align="left" width="500px">
 
 
 Nick: Legacyn
