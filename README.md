@@ -5,8 +5,6 @@
 <h1 align="center">Hello Friend</h1>
 <h3 align="center">Full Stack Developer from Brazil</h3>
 
-- 🔭 I’m currently working on [ReactJs Projects](NodeJs Projects)
-
 - 🌱 I’m currently learning **NextJs, Laravel, Golang and MongoDB**
 
 - 🖥️ Operational System **Arch Linux**
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **danmelomour@gmail.com**
 
-- 👀 Favorite Movies [Top Gun, Fast and Furious n The Wave](Top Gun, Fast and Furious n The Wave)
+- 👀 Favorite Movies **Fast and Furious, Top Gun and Pirates of the Caribbean**
 
 - ⚡ Favorite Series **Mr.Robot, Sons Of Anarchy and Invincible**
 
