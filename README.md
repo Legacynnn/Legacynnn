@@ -9,12 +9,8 @@
 Hello friend
 🩸 - Legacyn#9894
 
-<img src="" align="left" width="500px">
-<iframe
-  src="https://carbon.vercel.app/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=duotone-dark&wt=none&l=javascript&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%250Aconst%2520name%2520%253D%2520%2522Daniel%2520Melo%2522%250Aconst%2520nickname%2520%253D%2520%2522Legacyn%2522%250Aconst%2520stack%2520%253D%2520%255B%2522ReactJS%2522%252C%2520%2522VueJs%2522%252C%2520%2522NodeJs%2522%252C%2520%2522Laravel%2522%255D%250Aconst%2520SO%2520%253D%2520%2522Arch%2520Linux%2522%250Aconst%2520WindowManagement%2520%253D%2520%2522BSPWM%2522%250Aconst%2520FunFacts%2520%253D%2520%2522adept%2520to%2520Gym%2520and%2520Cyber%2520Security%2522%250A%250Aconsole.log%28%2522Welcome%2520to%2520my%2520profile%2522"
-  style="width: 634px; height: 353px; border:0; transform: scale(1); overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>
+<img src="https://carbon.vercel.app/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=duotone-dark&wt=none&l=javascript&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%250Aconst%2520name%2520%253D%2520%2522Daniel%2520Melo%2522%250Aconst%2520nickname%2520%253D%2520%2522Legacyn%2522%250Aconst%2520stack%2520%253D%2520%255B%2522ReactJS%2522%252C%2520%2522VueJs%2522%252C%2520%2522NodeJs%2522%252C%2520%2522Laravel%2522%255D%250Aconst%2520SO%2520%253D%2520%2522Arch%2520Linux%2522%250Aconst%2520WindowManagement%2520%253D%2520%2522BSPWM%2522%250Aconst%2520FunFacts%2520%253D%2520%2522adept%2520to%2520Gym%2520and%2520Cyber%2520Security%2522%250A%250Aconsole.log%28%2522Welcome%2520to%2520my%2520profile%2522" align="left" width="500px">
+
 
 Nick: Legacyn
 Age: 17
