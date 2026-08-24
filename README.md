@@ -7,11 +7,9 @@
 
 - 🧑‍💻 I’m currently working with **NextJs, NestJS, Solidity, Viem and Postgresql**
 
-- 🌱 I’m currently interested in **Smart Contracts, Golang, Solana and Svelte**
-
 - 🧠 Fun fact: I started programming just being a kid playing on https://www.hackthebox.com/
 
-- 🏢 Currently working on **The labz and 034Code**
+- 🏢 Currently working on **The labz**
 
 - 👀 Favorite Movies **Shutter Island, Top Gun and Creed**
 
